@@ -1,6 +1,5 @@
 import React from 'react';
 import { MdRemoveCircleOutline, MdAddCircleOutline, MdDelete}  from 'react-icons/md';
-import api from '../../services/api';
 
 import { Container, ProductTable, Total} from './styles';
 export default function Cart(){
